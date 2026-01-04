@@ -1,0 +1,18 @@
+2 galaxy S25|89000 99
+3 DELL Laptop|65000 24
+4 DELL Mouse|600 117
+5 GoPro cam|2000 10
+6 HP Monitor|15000 15
+7 USB-Drive|400 50
+8 WiFi Router|3500 18
+9 JBL Speaker|4500 69
+11 Monitor Cable|250 498
+12 Ergonomic Chair|8500 2
+13 Gaming Pad|799 0
+14 SS Drive|4500.5 1
+15 Powe Bank|1500 15
+16 Battery Pack|600 11
+17 Samsung Stylus Pen|2000 4
+18 Tripod Stand|999 21
+19 Candles|59 100
+20 Apple Iphone 14|79999 15
