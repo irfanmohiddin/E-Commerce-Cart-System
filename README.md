@@ -284,19 +284,6 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Potential Enhancements
-- [ ] Database integration (SQLite/MySQL)
-- [ ] Password encryption
-- [ ] Product categories/tags
-- [ ] Multiple payment methods
-- [ ] User reviews and ratings
-- [ ] Wishlist functionality
-- [ ] Discount codes/coupons
-- [ ] Admin analytics dashboard
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -304,23 +291,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@irfanmohiddin](https://github.com/irfanmohiddin)
 - LinkedIn: [Shaik Irfan Mohiddin](https://www.linkedin.com/in/shaik-irfan-mohiddin-537589323/)
 - Email: irfanloyola2019@gmail.com
-
-## 🙏 Acknowledgments
-
-- Inspired by real-world e-commerce systems
-- Built as a learning project for C++ and OOP concepts
-- Special thanks to the open-source community
-
-## 📊 Project Stats
-
-- **Lines of Code:** ~700+
-- **Classes:** 2 (Product, User)
-- **Functions:** 15+
-- **Data Files:** 4
-- **Features:** 13 (9 user + 4 admin)
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
 
 **Happy Shopping! 🛍️**
